@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Patrick Arrington]]></title>
+        <description><![CDATA[Patrick Arrington]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 09 Jun 2016 17:03:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rotating Human Head]]></title>
+            <description><![CDATA[<article><h1>Rotating Human Head</h1><p>This is "Rotating Human Head" by opticon on Vimeo, the home for high quality videos and the people who love them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8396932336610318d8f8753dbd5a7aaca7059348.jpg"></article>]]></description>
+            <link>https://vimeo.com/137747218</link>
+            <guid isPermaLink="false">72cf6ec2-52e4-4b37-aaf9-5d0a28d83f35</guid>
+            <pubDate>Thu, 09 Jun 2016 17:03:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
